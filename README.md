@@ -8,7 +8,7 @@
 ## Introduction
 
 In this lab, we will be be implementing React lifecycle methods for a simple
-app: MultiTimer. MultiTimer allows users to start multiple one-second timers.
+app: MultiTimer. MultiTimer allows users to start multiple one-second timers...
 Start as many timers as you need! Each timer is a single component and keeps
 track of its own time using state.
 
